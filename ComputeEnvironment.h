@@ -1,4 +1,4 @@
 class ComputeEnvironment {
   public:
-    virtual void Enter() = 0;
+    virtual void Access() = 0;
 };
